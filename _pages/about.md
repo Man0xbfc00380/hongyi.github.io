@@ -11,4 +11,4 @@ I'm a fourth-year Ph.D candidate from [Center for Brain-inspired Computing Resea
 
 I am advised by Prof. Rong Zhao and Prof. Luping Shi now. I was advised by Prof. Rui Chang from Zhejiang University when I was an undergraduate student.
 
-[Email](hy-li21@mails.tsinghua.edu.cn) / [Github](https://github.com/Man0xbfc00380) / [Gitee]([../images/wechat.jpg](https://gitee.com/lhy_giytee)) 
+[Email](hy-li21@mails.tsinghua.edu.cn) / [Github](https://github.com/Man0xbfc00380) / [Gitee](https://gitee.com/lhy_giytee)
