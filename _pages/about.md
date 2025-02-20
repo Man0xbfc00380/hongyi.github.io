@@ -27,7 +27,7 @@ Li, L.#, **Li, H.**#, Yang, Q., Ou, M., Zhao R. Ji X., (2025). Espresso: Exploit
 
 **Li, H.**#, Yang Q.#, Ma, S., Zhao, R., Xinglong Ji. (2025). RoboSpike: Fully Utilizing the Heterogeneous System with Subcallback Scheduling in ROS 2. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. [Link](https://ieeexplore.ieee.org/document/10870360)
 
-Shi, Q.#, Liu, F.#, **Li, H.**, Li, G., Shi, L., Zhao R. (2025). Hybrid Neural Networks for Continual Learning Inspired by Cortico-Hippocampal Circuits. Nature Communications [Link]([https://ieeexplore.ieee.org/document/10870360](https://www.nature.com/articles/s41467-025-56405-9))
+Shi, Q.#, Liu, F.#, **Li, H.**, Li, G., Shi, L., Zhao R. (2025). Hybrid Neural Networks for Continual Learning Inspired by Cortico-Hippocampal Circuits. Nature Communications [Link](https://www.nature.com/articles/s41467-025-56405-9)
 
 Yang, Q., Xu, M., **Li, H.**, Du, Y., Feng D., Zhao, R. (2025). Enhancing CAD Workflows: Heterogeneous Graph Attention Networks for Efficient Routing Congestion Prediction in Chip Design. IEEE Electron Devices Technology and Manufacturing (To be appeared)
 
