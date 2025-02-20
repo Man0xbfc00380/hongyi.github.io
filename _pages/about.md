@@ -14,7 +14,7 @@ I am advised by Prof. Rong Zhao and Prof. Luping Shi now. I was advised by Prof.
 [Email](hy-li21@mails.tsinghua.edu.cn) / [Github](https://github.com/Man0xbfc00380) / [Gitee](https://gitee.com/lhy_giytee) / [Researchgate](https://www.researchgate.net/profile/Hongyi-Li-30)
 
 ## News
-One paper has been accepted by DAC 2025! :triangular_flag_on_post:
+One paper has been accepted by DAC 2025! :smiley:
 
 ## Publications
 
