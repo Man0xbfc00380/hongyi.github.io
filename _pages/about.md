@@ -31,7 +31,7 @@ Hint: \# marks the co-first author.
 
 ### 2025
 
-**[DAC]** Li, L.#, **Li, H.**#, Yang, Q., Ou, M., Zhao R. Ji X., (2025). Espresso: Exploiting the Sparsity Property in Brain-inspired Sensors with Spatiotemporal Ordering. DAC
+**[DAC]** Li, L.#, **Li, H.**#, Yang, Q., Ou, M., Zhao R. Ji X., (2025). Espresso: Exploiting the Sparsity Property in Event Sensors with Spatiotemporal Ordering. DAC
 
 **[TCAD]** **Li, H.**#, Yang Q.#, Ma, S., Zhao, R., Xinglong Ji. (2025). RoboSpike: Fully Utilizing the Heterogeneous System with Subcallback Scheduling in ROS 2. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. [Paper](https://ieeexplore.ieee.org/document/10870360) [Code](https://github.com/Man0xbfc00380/robospike)
 
