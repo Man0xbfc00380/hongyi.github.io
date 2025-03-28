@@ -19,12 +19,6 @@ I am advised by Prof. Rong Zhao and Prof. Luping Shi now. I was advised by Prof.
 - 2017.9 ~ 2021.7, B.Eng, Chu-Kochen Honor College, Computer Science and Technology, Zhejiang University
 - 2017.9 ~ 2021.7, B.S, Chu-Kochen Honor College, Biological Science, Zhejiang University
 
-## News
-
-**[2025.2]** One paper has been accepted by DAC 2025!
-
-**[2025.2]** RoboSpike has been accepted by TCAD!
-
 ## Publications
 
 Hint: \# marks the co-first author.
@@ -38,6 +32,8 @@ Hint: \# marks the co-first author.
 **[Nat. Comm. ]** Shi, Q.#, Liu, F.#, **Li, H.**, Li, G., Shi, L., Zhao R. (2025). Hybrid Neural Networks for Continual Learning Inspired by Cortico-Hippocampal Circuits. Nature Communications [Paper](https://www.nature.com/articles/s41467-025-56405-9)
 
 **[EDTM]** Yang, Q., Xu, M., **Li, H.**, Du, Y., Feng D., Zhao, R. (2025). Enhancing CAD Workflows: Heterogeneous Graph Attention Networks for Efficient Routing Congestion Prediction in Chip Design. IEEE Electron Devices Technology and Manufacturing
+
+**[Preprint]** Qu, H., Zhang, W., Lin, J., Ma, S., **Li, H.**, Shi, L., Xu, C. (2025) MLDSE: Scaling Design Space Exploration Infrastructure for Multi-Level Hardware. [Paper](https://arxiv.org/pdf/2503.21297)
 
 ### 2024
 
