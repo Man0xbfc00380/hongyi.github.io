@@ -25,13 +25,13 @@ Hint: \# marks the co-first author.
 
 ### 2025
 
-**[DAC]** Li, L.#, **Li, H.**#, Yang, Q., Ou, M., Zhao R. Ji X., (2025). Espresso: Exploiting the Sparsity Property in Event Sensors with Spatiotemporal Ordering. DAC
+**[DAC]** Li, L.#, **Li, H.**#, Yang, Q., Ou, M., Zhao R. Ji X., (2025). Espresso: Exploiting the Sparsity Property in Event Sensors with Spatiotemporal Ordering. DAC [Paper](https://github.com/Man0xbfc00380/hongyi.github.io/blob/master/files/Espresso_DAC25_Final.pdf)
 
 **[TCAD]** **Li, H.**#, Yang Q.#, Ma, S., Zhao, R., Xinglong Ji. (2025). RoboSpike: Fully Utilizing the Heterogeneous System with Subcallback Scheduling in ROS 2. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. [Paper](https://ieeexplore.ieee.org/document/10870360) [Code](https://github.com/Man0xbfc00380/robospike)
 
 **[Nat. Comm. ]** Shi, Q.#, Liu, F.#, **Li, H.**, Li, G., Shi, L., Zhao R. (2025). Hybrid Neural Networks for Continual Learning Inspired by Cortico-Hippocampal Circuits. Nature Communications [Paper](https://www.nature.com/articles/s41467-025-56405-9)
 
-**[EDTM]** Yang, Q., Xu, M., **Li, H.**, Du, Y., Feng D., Zhao, R. (2025). Enhancing CAD Workflows: Heterogeneous Graph Attention Networks for Efficient Routing Congestion Prediction in Chip Design. IEEE Electron Devices Technology and Manufacturing
+**[EDTM]** Yang, Q., Xu, M., **Li, H.**, Du, Y., Feng D., Zhao, R. (2025). Enhancing CAD Workflows: Heterogeneous Graph Attention Networks for Efficient Routing Congestion Prediction in Chip Design. IEEE Electron Devices Technology and Manufacturing [Paper](https://ieeexplore.ieee.org/document/11040935)
 
 **[Preprint]** Qu, H., Zhang, W., Lin, J., Ma, S., **Li, H.**, Shi, L., Xu, C. (2025) MLDSE: Scaling Design Space Exploration Infrastructure for Multi-Level Hardware. [Paper](https://arxiv.org/pdf/2503.21297)
 
