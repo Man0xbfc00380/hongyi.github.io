@@ -33,6 +33,8 @@ Hint: \# marks the co-first author.
 
 **[EDTM]** Yang, Q., Xu, M., **Li, H.**, Du, Y., Feng D., Zhao, R. (2025). Enhancing CAD Workflows: Heterogeneous Graph Attention Networks for Efficient Routing Congestion Prediction in Chip Design. IEEE Electron Devices Technology and Manufacturing [Paper](https://ieeexplore.ieee.org/document/11040935)
 
+**[Preprint]** **Li, H.**, Ma, S., Qu, H. Zhang, W., Chen, J., Lin, J., Tu, F., Zhao, R. (2025) CompAir: Synergizing Complementary PIMs and In-Transit NoC Computation for Efficient LLM Acceleration [Paper](https://arxiv.org/pdf/2509.13710) 
+
 **[Preprint]** Qu, H., Zhang, W., Lin, J., Ma, S., **Li, H.**, Shi, L., Xu, C. (2025) MLDSE: Scaling Design Space Exploration Infrastructure for Multi-Level Hardware. [Paper](https://arxiv.org/pdf/2503.21297)
 
 ### 2024
