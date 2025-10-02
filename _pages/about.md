@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year Ph.D. candidate at [Center for Brain-inspired Computing Research](https://www.cbicr.tsinghua.edu.cn/), Tsinghua University. My research interests include dataflow architecture, brain-inspired computing, and parallel computing. Systems and architectures for robotics scenarios (especially brain-inspired computing and dataflow) have been my research focus recently.
+I'm a fifth-year Ph.D. candidate at [Center for Brain-inspired Computing Research](https://www.cbicr.tsinghua.edu.cn/), Tsinghua University. My research interests include dataflow architecture, brain-inspired computing, and parallel computing. Systems and architectures for robotics scenarios (especially brain-inspired computing and dataflow) have been my research focus recently.
 
-I am advised by Prof. Rong Zhao and Prof. Luping Shi now. I was advised by Prof. Rui Chang from Zhejiang University when I was an undergraduate student.
+I am advised by Prof. Rong Zhao and Prof. Luping Shi now. I was advised by Prof. Rui Chang from Zhejiang University when I was an undergraduate student. My core competitiveness lies in my full-stack development capabilities in intelligent systems scenarios such as robotics and autonomous driving, encompassing hardware architecture (both NPU and CPU), AI compilation, robotics operating systems, and hardware-algorithm co-optimization.
 
 [Email](hy-li21@mails.tsinghua.edu.cn) / [Github](https://github.com/Man0xbfc00380) / [Gitee](https://gitee.com/lhy_giytee) / [Researchgate](https://www.researchgate.net/profile/Hongyi-Li-30)
 
@@ -32,6 +32,8 @@ Hint: \# marks the co-first author.
 **[Nat. Comm. ]** Shi, Q.#, Liu, F.#, **Li, H.**, Li, G., Shi, L., Zhao R. (2025). Hybrid Neural Networks for Continual Learning Inspired by Cortico-Hippocampal Circuits. Nature Communications [Paper](https://www.nature.com/articles/s41467-025-56405-9)
 
 **[EDTM]** Yang, Q., Xu, M., **Li, H.**, Du, Y., Feng D., Zhao, R. (2025). Enhancing CAD Workflows: Heterogeneous Graph Attention Networks for Efficient Routing Congestion Prediction in Chip Design. IEEE Electron Devices Technology and Manufacturing [Paper](https://ieeexplore.ieee.org/document/11040935)
+
+**[JEDS]** Yang, Q., Xu, M., **Li, H.**, Du, Y., Feng D., Zhao, R. (2025). Efficient Routing Congestion Prediction in Chip Design: Integrating Netlist Structure and Design Specifications With Heterogeneous Graph Attention Networks. IEEE Journal of the Electron Devices Society [Paper](https://ieeexplore.ieee.org/document/11123503/)
 
 **[Preprint]** **Li, H.**, Ma, S., Qu, H. Zhang, W., Chen, J., Lin, J., Tu, F., Zhao, R. (2025) CompAir: Synergizing Complementary PIMs and In-Transit NoC Computation for Efficient LLM Acceleration [Paper](https://arxiv.org/pdf/2509.13710) 
 
@@ -59,7 +61,7 @@ Hint: \# marks the co-first author.
 
 ## Grant
 
-**[2025.1~2026.12]** A brain-inspired asynchronous scheduling ... intelligence [NSFC (Ph.D. Student)]
+**[2025.1~2026.12]** A brain-inspired asynchronous scheduling ... intelligence [National Natural Science Foundation of China Youth Basic Research Project for PhD Students]
 
 ## Selected Award
 
