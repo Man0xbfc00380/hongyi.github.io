@@ -9,16 +9,16 @@ redirect_from:
 
 I'm a fifth-year Ph.D. candidate at [Center for Brain-inspired Computing Research](https://www.cbicr.tsinghua.edu.cn/), Tsinghua University. My research interests include dataflow architecture, brain-inspired computing, and parallel computing. Systems and architectures for robotics scenarios (especially brain-inspired computing and dataflow) have been my research focus recently.
 
-I am advised by Prof. Rong Zhao and Prof. Luping Shi now. I have been studying at HKUST as a research visiting student in AI chip design, supervised by Tim Kwang Ting Cheng. I was advised by Prof. Rui Chang from Zhejiang University when I was an undergraduate student. My core competitiveness lies in my full-stack development capabilities in intelligent systems scenarios such as robotics and autonomous driving, encompassing hardware architecture (both NPU and CPU), AI compilation, robotics operating systems, and hardware-algorithm co-optimization.
+I am advised by Prof. [Rong Zhao](https://faculty.dpi.tsinghua.edu.cn/zhaorong/en/index.htm) and Prof. [Luping Shi](https://faculty.dpi.tsinghua.edu.cn/shiluping/zh_CN/index.htm) now. I have been studying at HKUST as a research visiting student in AI chip design, supervised by [Kwang-Ting (Tim) Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng). I was advised by Prof. [Rui Chang](https://person.zju.edu.cn/changrui) from Zhejiang University when I was an undergraduate student. My core competitiveness lies in my full-stack development capabilities in intelligent systems scenarios such as robotics and autonomous driving, encompassing hardware architecture (both NPU and CPU), AI compilation, robotics operating systems, and hardware-algorithm co-optimization.
 
 In the future, I will continue to conduct research into systems and architectures for autonomous driving and robotics.
 
-[Email](hy-li21@mails.tsinghua.edu.cn) / [Github](https://github.com/Man0xbfc00380) / [Gitee](https://gitee.com/lhy_giytee) / [Researchgate](https://www.researchgate.net/profile/Hongyi-Li-30)
+[Github](https://github.com/Man0xbfc00380) / [Gitee](https://gitee.com/lhy_giytee) / [Researchgate](https://www.researchgate.net/profile/Hongyi-Li-30)
 
 ## Education
 
 - 2021.9 ~ now, Ph.D candidate, Center for Brain-inspired Computing Research, Tsinghua University
-- 2025.11 ~ now, Visiting Student, Department of Electronic and Computer Engineering, HKUST
+- 2025.11 ~ now, Visiting Student, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology
 - 2017.9 ~ 2021.7, B.Eng, Chu-Kochen Honor College, Computer Science and Technology, Zhejiang University
 - 2017.9 ~ 2021.7, B.S, Chu-Kochen Honor College, Biological Science, Zhejiang University
 
@@ -32,7 +32,7 @@ Hint: \# marks the co-first author.
 
 **[TCAD]** **Li, H.**#, Yang Q.#, Ma, S., Zhao, R., Xinglong Ji. (2025). RoboSpike: Fully Utilizing the Heterogeneous System with Subcallback Scheduling in ROS 2. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. [Paper](https://ieeexplore.ieee.org/document/10870360) [Code](https://github.com/Man0xbfc00380/robospike)
 
-**[TCAD]** Li, L.#, **Li, H.**#, Yang, Q., Wang, T., Lin, Y., Ou, M., Zhao R. Ji X., (2025). Espresso: Exploiting the Sparsity Property in Event Sensors with Spatiotemporal Ordering. DAC [Paper](https://ieeexplore.ieee.org/document/11270873)
+**[TCAD]** Li, L.#, **Li, H.**#, Yang, Q., Wang, T., Lin, Y., Ou, M., Zhao R. Ji X., (2025). Espresso: Exploiting the Sparsity Property in Event Sensors with Spatiotemporal Ordering. TCAD [Paper](https://ieeexplore.ieee.org/document/11270873)
 
 **[Nat. Comm. ]** Shi, Q.#, Liu, F.#, **Li, H.**, Li, G., Shi, L., Zhao R. (2025). Hybrid Neural Networks for Continual Learning Inspired by Cortico-Hippocampal Circuits. Nature Communications [Paper](https://www.nature.com/articles/s41467-025-56405-9)
 
