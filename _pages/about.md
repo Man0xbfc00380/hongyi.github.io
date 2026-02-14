@@ -26,11 +26,15 @@ In the future, I will continue to conduct research into systems and architecture
 
 Hint: \# marks the co-first author.
 
+### 2026
+
+**[TCAD]** Xing Y., Feng D., **Li, H.**#, Ji, X., Zhao, R. (2026). BACON: A Body-Aware Framework for Parameterized Collision Detection Acceleration. TCAD [Paper](https://ieeexplore.ieee.org/document/11396026/)
+
 ### 2025
 
-**[DAC]** Li, L.#, **Li, H.**#, Yang, Q., Ou, M., Zhao R. Ji X., (2025). Espresso: Exploiting the Sparsity Property in Event Sensors with Spatiotemporal Ordering. DAC [Paper](https://github.com/Man0xbfc00380/hongyi.github.io/blob/master/files/Espresso_DAC25_Final.pdf)
+**[DAC]** Li, L.#, **Li, H.**#, Yang, Q., Ou, M., Zha,o R. Ji, X., (2025). Espresso: Exploiting the Sparsity Property in Event Sensors with Spatiotemporal Ordering. DAC [Paper](https://github.com/Man0xbfc00380/hongyi.github.io/blob/master/files/Espresso_DAC25_Final.pdf)
 
-**[TCAD]** **Li, H.**#, Yang Q.#, Ma, S., Zhao, R., Xinglong Ji. (2025). RoboSpike: Fully Utilizing the Heterogeneous System with Subcallback Scheduling in ROS 2. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. [Paper](https://ieeexplore.ieee.org/document/10870360) [Code](https://github.com/Man0xbfc00380/robospike)
+**[TCAD]** **Li, H.**#, Yang Q.#, Ma, S., Zhao, R., Ji, X. (2025). RoboSpike: Fully Utilizing the Heterogeneous System with Subcallback Scheduling in ROS 2. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. [Paper](https://ieeexplore.ieee.org/document/10870360) [Code](https://github.com/Man0xbfc00380/robospike)
 
 **[TCAD]** Li, L.#, **Li, H.**#, Yang, Q., Wang, T., Lin, Y., Ou, M., Zhao R. Ji X., (2025). Espresso: Exploiting the Sparsity Property in Event Sensors with Spatiotemporal Ordering. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. [Paper](https://ieeexplore.ieee.org/document/11270873)
 
