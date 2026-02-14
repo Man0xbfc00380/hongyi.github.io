@@ -28,7 +28,7 @@ Hint: \# marks the co-first author.
 
 ### 2026
 
-**[TCAD]** Xing Y., Feng D., **Li, H.**#, Ji, X., Zhao, R. (2026). BACON: A Body-Aware Framework for Parameterized Collision Detection Acceleration. TCAD [Paper](https://ieeexplore.ieee.org/document/11396026/)
+**[TCAD]** Xing Y., Feng D., **Li, H.**, Ji, X., Zhao, R. (2026). BACON: A Body-Aware Framework for Parameterized Collision Detection Acceleration. TCAD [Paper](https://ieeexplore.ieee.org/document/11396026/)
 
 ### 2025
 
