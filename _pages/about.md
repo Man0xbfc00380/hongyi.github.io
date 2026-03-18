@@ -28,7 +28,9 @@ Hint: \# marks the co-first author.
 
 ### 2026
 
-**[TCAD]** Xing Y., Feng D., **Li, H.**, Ji, X., Zhao, R. (2026). BACON: A Body-Aware Framework for Parameterized Collision Detection Acceleration. TCAD [Paper](https://ieeexplore.ieee.org/document/11396026/)
+**[TCAD]** Xing, Y., Feng, D., **Li, H.**, Ji, X., Zhao, R. (2026). BACON: A Body-Aware Framework for Parameterized Collision Detection Acceleration. TCAD [Paper](https://ieeexplore.ieee.org/document/11396026/)
+
+**[Preprint]** Zhang, W., Zhou, Y., Qu, H., **Li, H.**. (2026). Loosely-Structured Software: Engineering Context, Structure, and Evolution Entropy in Runtime-Rewired Multi-Agent Systems [Paper](https://arxiv.org/abs/2603.15690)
 
 ### 2025
 
@@ -67,6 +69,10 @@ Hint: \# marks the co-first author.
 ### 2022
 
 **[Sci. Rob.]** Ma, S.#, Pei, J.#, Zhang, W.#, Wang, G.#, Feng, D.#, Yu, F., Song, C., Qu, H., Ma, C., Lu, M., Liu, F., Zhou, W., Wu, Y., Lin, Y., **Li, H.**, Wang, T., Liu, X., Li, G., Zhao, R., Shi, L. (2022). Neuromorphic computing chip with spatiotemporal elasticity for multi-intelligent tasking robots.  Science Robotics, 7(67), eabk2948. [Paper](https://www.science.org/doi/10.1126/scirobotics.abk2948)
+
+## Services
+
+Reviewer: IEEE ISCAS, Neural Networks, The Journal of Supercomputing.
 
 ## Grant
 
