@@ -1,4 +1,4 @@
-<img width="1882" height="1066" alt="97923a1b941e47f991eca46aa1735d31" src="https://github.com/user-attachments/assets/33948df9-6baf-4d98-8a03-8e132b2b47a1" />---
+
 permalink: /
 title: "HelloWorld from Hongyi"
 author_profile: true
