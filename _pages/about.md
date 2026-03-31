@@ -30,6 +30,8 @@ Hint: \# marks the co-first author.
 
 **[ISCA]** **Li, H.**, Liu, Y., Pei, H., Yang, Q., Pan, Z., Ma, S., Li, L., Zhao, R., Ji, X. (2026). Optimizing Spatial Data Structure with Near-Cache Acceleration.
 
+**[Preprint]** Ma, S.#, **Li, H.**#, Zhang, W., Tan, Y., Dong, P., Liu, Y., Liu L., Jiao, Y., Liu, X., Liang, L., Cheng, T. (2026). Expert Streaming: Accelerating Low-Batch MoE Inference via Multi-chiplet Architecture and Dynamic Expert Trajectory Scheduling [Paper](https://arxiv.org/abs/2603.27624v1)
+
 **[TCAD]** Xing, Y., Feng, D., **Li, H.**, Ji, X., Zhao, R. (2026). BACON: A Body-Aware Framework for Parameterized Collision Detection Acceleration. TCAD [Paper](https://ieeexplore.ieee.org/document/11396026/)
 
 **[Preprint]** Zhang, W., Zhou, Y., Qu, H., **Li, H.**. (2026). Loosely-Structured Software: Engineering Context, Structure, and Evolution Entropy in Runtime-Rewired Multi-Agent Systems [Paper](https://arxiv.org/abs/2603.15690)
