@@ -18,7 +18,7 @@ In the future, I will continue to conduct research into systems and architecture
 ## Education
 
 - 2021.9 ~ now, Ph.D candidate, Center for Brain-inspired Computing Research, Tsinghua University
-- 2025.11 ~ now, Visiting Student, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology
+- 2025.11 ~ 2026.4, Visiting Student, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology
 - 2017.9 ~ 2021.7, B.Eng, Chu-Kochen Honor College, Computer Science and Technology, Zhejiang University
 - 2017.9 ~ 2021.7, B.S, Chu-Kochen Honor College, Biological Science, Zhejiang University
 
@@ -29,6 +29,9 @@ Hint: \# marks the co-first author.
 ### 2026
 
 **[ISCA]** **Li, H.**, Liu, Y., Pei, H., Yang, Q., Pan, Z., Ma, S., Li, L., Zhao, R., Ji, X. (2026). Optimizing Spatial Data Structure with Near-Cache Acceleration.
+
+**[ISCA]** **Li, H.**, Ma, S., Qu, H. Zhang, W., Chen, J., Lin, J., Tu, F., Zhao, R. (2026) CompAir: Synergizing Complementary PIMs and In-Transit NoC Computation for Efficient LLM Acceleration [Paper](https://arxiv.org/pdf/2509.13710) 
+[Code](https://github.com/Man0xbfc00380/comp-air)
 
 **[Preprint]** Ma, S.#, **Li, H.**#, Zhang, W., Tan, Y., Dong, P., Liu, Y., Liu L., Jiao, Y., Liu, X., Liang, L., Cheng, T. (2026). Expert Streaming: Accelerating Low-Batch MoE Inference via Multi-chiplet Architecture and Dynamic Expert Trajectory Scheduling [Paper](https://arxiv.org/abs/2603.27624v1)
 
@@ -49,8 +52,6 @@ Hint: \# marks the co-first author.
 **[EDTM]** Yang, Q., Xu, M., **Li, H.**, Du, Y., Feng D., Zhao, R. (2025). Enhancing CAD Workflows: Heterogeneous Graph Attention Networks for Efficient Routing Congestion Prediction in Chip Design. IEEE Electron Devices Technology and Manufacturing [Paper](https://ieeexplore.ieee.org/document/11040935)
 
 **[JEDS]** Yang, Q., Xu, M., **Li, H.**, Du, Y., Feng D., Zhao, R. (2025). Efficient Routing Congestion Prediction in Chip Design: Integrating Netlist Structure and Design Specifications With Heterogeneous Graph Attention Networks. IEEE Journal of the Electron Devices Society [Paper](https://ieeexplore.ieee.org/document/11123503/)
-
-**[Preprint]** **Li, H.**, Ma, S., Qu, H. Zhang, W., Chen, J., Lin, J., Tu, F., Zhao, R. (2025) CompAir: Synergizing Complementary PIMs and In-Transit NoC Computation for Efficient LLM Acceleration [Paper](https://arxiv.org/pdf/2509.13710) 
 
 **[Preprint]** Qu, H., Zhang, W., Lin, J., Ma, S., **Li, H.**, Shi, L., Xu, C. (2025) MLDSE: Scaling Design Space Exploration Infrastructure for Multi-Level Hardware. [Paper](https://arxiv.org/pdf/2503.21297)
 
