@@ -28,9 +28,9 @@ Hint: \# marks the co-first author.
 
 ### 2026
 
-**[ISCA]** **Li, H.**, Liu, Y., Pei, H., Yang, Q., Pan, Z., Ma, S., Li, L., Zhao, R., Ji, X. (2026). Optimizing Spatial Data Structure with Near-Cache Acceleration.
+**[ISCA]** **Li, H.**, Liu, Y., Pei, H., Yang, Q., Pan, Z., Ma, S., Li, L., Zhao, R., Ji, X. (2026). Optimizing Spatial Data Structure with Near-Cache Acceleration by Exploiting Physical Locality.
 
-**[ISCA]** **Li, H.**, Ma, S., Qu, H. Zhang, W., Chen, J., Lin, J., Tu, F., Zhao, R. (2026) CompAir: Synergizing Complementary PIMs and In-Transit NoC Computation for Efficient LLM Acceleration [Paper](https://arxiv.org/pdf/2509.13710) 
+**[ISCA]** **Li, H.**, Ma, S., Qu, H. Zhang, W., Chen, J., Lin, J., Tu, F., Zhao, R. (2026) Bridging Efficiency and Scalability in LLM System via 3D Hybrid PIM with 2D In-Transit Computation [Paper](https://arxiv.org/pdf/2509.13710) 
 [Code](https://github.com/Man0xbfc00380/comp-air)
 
 **[Preprint]** Ma, S.#, **Li, H.**#, Zhang, W., Tan, Y., Dong, P., Liu, Y., Liu L., Jiao, Y., Liu, X., Liang, L., Cheng, T. (2026). Expert Streaming: Accelerating Low-Batch MoE Inference via Multi-chiplet Architecture and Dynamic Expert Trajectory Scheduling [Paper](https://arxiv.org/abs/2603.27624v1)
