@@ -33,9 +33,11 @@ Hint: \# marks the co-first author.
 **[ISCA]** **Li, H.**, Ma, S., Qu, H. Zhang, W., Chen, J., Lin, J., Tu, F., Zhao, R. (2026) Bridging Efficiency and Scalability in LLM System via 3D Hybrid PIM with 2D In-Transit Computation [Paper](https://arxiv.org/pdf/2509.13710) 
 [Code](https://github.com/Man0xbfc00380/comp-air)
 
+**[TCAD]** Xing, Y., Feng, D., **Li, H.**, Ji, X., Zhao, R. (2026). BACON: A Body-Aware Framework for Parameterized Collision Detection Acceleration. TCAD [Paper](https://ieeexplore.ieee.org/document/11396026/)
+
 **[Preprint]** Ma, S.#, **Li, H.**#, Zhang, W., Tan, Y., Dong, P., Liu, Y., Liu L., Jiao, Y., Liu, X., Liang, L., Cheng, T. (2026). Expert Streaming: Accelerating Low-Batch MoE Inference via Multi-chiplet Architecture and Dynamic Expert Trajectory Scheduling [Paper](https://arxiv.org/abs/2603.27624v1)
 
-**[TCAD]** Xing, Y., Feng, D., **Li, H.**, Ji, X., Zhao, R. (2026). BACON: A Body-Aware Framework for Parameterized Collision Detection Acceleration. TCAD [Paper](https://ieeexplore.ieee.org/document/11396026/)
+**[Preprint]** Shi Q., Che Y., Liu F., **Li H.**, Xu M., Reinert S., Goltstein P., Zhao R., Shi L. (2026). Joint sparse coding and temporal dynamics support context reconfiguration [Paper](https://doi.org/10.48550/arXiv.2605.10178)
 
 **[Preprint]** Zhang, W., Zhou, Y., Qu, H., **Li, H.**. (2026). Loosely-Structured Software: Engineering Context, Structure, and Evolution Entropy in Runtime-Rewired Multi-Agent Systems [Paper](https://arxiv.org/abs/2603.15690)
 
