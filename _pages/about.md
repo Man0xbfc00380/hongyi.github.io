@@ -33,6 +33,8 @@ Hint: \# marks the co-first author.
 **[ISCA]** **Li, H.**, Ma, S., Qu, H. Zhang, W., Chen, J., Lin, J., Tu, F., Zhao, R. (2026) Bridging Efficiency and Scalability in LLM System via 3D Hybrid PIM with 2D In-Transit Computation [Paper](https://arxiv.org/pdf/2509.13710) 
 [Code](https://github.com/Man0xbfc00380/comp-air)
 
+**[IROS]** Yang, Q., **Li, H.**, Li, L., Zhao, R., Ji, X., (2026) PHAST: Priority-Driven Hierarchical Scheduling for Real-Time ROS2 Executor on Heterogeneous Robotic Platforms
+
 **[TCAD]** Xing, Y., Feng, D., **Li, H.**, Ji, X., Zhao, R. (2026). BACON: A Body-Aware Framework for Parameterized Collision Detection Acceleration. TCAD [Paper](https://ieeexplore.ieee.org/document/11396026/)
 
 **[Preprint]** Ma, S.#, **Li, H.**#, Zhang, W., Tan, Y., Dong, P., Liu, Y., Liu L., Jiao, Y., Liu, X., Liang, L., Cheng, T. (2026). Expert Streaming: Accelerating Low-Batch MoE Inference via Multi-chiplet Architecture and Dynamic Expert Trajectory Scheduling [Paper](https://arxiv.org/abs/2603.27624v1)
