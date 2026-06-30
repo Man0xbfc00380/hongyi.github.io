@@ -31,7 +31,7 @@ Hint: \# marks the co-first author.
 **[ISCA]** **Li, H.**, Liu, Y., Pei, H., Yang, Q., Pan, Z., Ma, S., Li, L., Zhao, R., Ji, X. (2026). Optimizing Spatial Data Structure with Near-Cache Acceleration by Exploiting Physical Locality. [Paper](https://github.com/Man0xbfc00380/hongyi.github.io/blob/master/files/ISCA26_RoboCortex.pdf)
 
 **[ISCA]** **Li, H.**, Ma, S., Qu, H. Zhang, W., Chen, J., Lin, J., Tu, F., Zhao, R. (2026) Bridging Efficiency and Scalability in LLM System via 3D Hybrid PIM with 2D In-Transit Computation [Paper](https://arxiv.org/pdf/2509.13710) 
-[Code](https://github.com/Man0xbfc00380/comp-air)
+[Code](https://github.com/Man0xbfc00380/comp-air) (Correction: Fig. 3C in the published version may be misadded. The right figure is Fig. 4C in our arXiv version: https://arxiv.org/pdf/2509.13710.)
 
 **[IROS]** Yang, Q.#, **Li, H.**#, Li, L., Zhao, R., Ji, X., (2026) PHAST: Priority-Driven Hierarchical Scheduling for Real-Time ROS2 Executor on Heterogeneous Robotic Platforms
 
@@ -47,7 +47,7 @@ Hint: \# marks the co-first author.
 
 **[DAC]** Li, L.#, **Li, H.**#, Yang, Q., Ou, M., Zha,o R. Ji, X., (2025). Espresso: Exploiting the Sparsity Property in Event Sensors with Spatiotemporal Ordering. DAC [Paper](https://github.com/Man0xbfc00380/hongyi.github.io/blob/master/files/Espresso_DAC25_Final.pdf)
 
-**[TCAD]** **Li, H.**#, Yang Q.#, Ma, S., Zhao, R., Ji, X. (2025). RoboSpike: Fully Utilizing the Heterogeneous System with Subcallback Scheduling in ROS 2. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. [Paper](https://ieeexplore.ieee.org/document/10870360) [Code](https://github.com/Man0xbfc00380/robospike)
+**[TCAD]** **Li, H.**#, Yang Q.#, Ma, S., Zhao, R., Ji, X. (2025). RoboSpike: Fully Utilizing the Heterogeneous System with Subcallback Scheduling in ROS 2. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. [Paper](https://ieeexplore.ieee.org/document/10870360) [Code](https://github.com/Man0xbfc00380/robospike) (Correction: The final item in Lemma 7 should be: (delta + alpha) - | (delta + alpha) / T | * T. Thanks for the correction by Zhengda Wu!)
 
 **[TCAD]** Li, L.#, **Li, H.**#, Yang, Q., Wang, T., Lin, Y., Ou, M., Zhao R. Ji X., (2025). Espresso: Exploiting the Sparsity Property in Event Sensors with Spatiotemporal Ordering. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. [Paper](https://ieeexplore.ieee.org/document/11270873)
 
