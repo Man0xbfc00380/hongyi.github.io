@@ -22,6 +22,11 @@ In the future, I will continue to conduct research into systems and architecture
 - 2017.9 ~ 2021.7, B.Eng, Chu-Kochen Honor College, Computer Science and Technology, Zhejiang University
 - 2017.9 ~ 2021.7, B.S, Chu-Kochen Honor College, Biological Science, Zhejiang University
 
+## Experience
+
+- 2026.7 ~ now, Intern (Shanghai), NIO, Digital Architecture - Computing Platform
+- 2025.11 ~ 2026.4, Intern (Hong Kong), ACCESS, AI Chip Design
+
 ## Publications
 
 Hint: \# marks the co-first author.
