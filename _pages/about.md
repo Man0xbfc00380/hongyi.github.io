@@ -7,25 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fifth-year Ph.D. candidate at [Center for Brain-inspired Computing Research](https://www.cbicr.tsinghua.edu.cn/), Tsinghua University. My research interests include dataflow architecture, brain-inspired computing, and parallel computing. Systems and architectures for robotics scenarios (especially brain-inspired computing and dataflow) have been my research focus recently.
+I received my Ph.D. at [Center for Brain-inspired Computing Research](https://www.cbicr.tsinghua.edu.cn/), Tsinghua University. My research interests include dataflow architecture, brain-inspired computing, and parallel computing. Systems and architectures for robotics scenarios (especially brain-inspired computing and dataflow) have been my research focus recently.
 
-I am advised by Prof. [Rong Zhao](https://faculty.dpi.tsinghua.edu.cn/zhaorong/en/index.htm) and Prof. [Luping Shi](https://faculty.dpi.tsinghua.edu.cn/shiluping/zh_CN/index.htm) now. I have been studying at HKUST as a research visiting student in AI chip design, supervised by Prof. [Kwang-Ting (Tim) Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng). I was advised by Prof. [Rui Chang](https://person.zju.edu.cn/changrui) from Zhejiang University when I was an undergraduate student. My core competitiveness lies in my full-stack development capabilities in intelligent systems scenarios such as robotics and autonomous driving, encompassing hardware architecture (both NPU and CPU), AI compilation, robotics operating systems, and hardware-algorithm co-optimization.
+I was advised by Prof. [Rong Zhao](https://faculty.dpi.tsinghua.edu.cn/zhaorong/en/index.htm) and Prof. [Luping Shi](https://faculty.dpi.tsinghua.edu.cn/shiluping/zh_CN/index.htm). I have been studying at HKUST as a research visiting student in AI chip design, supervised by Prof. [Kwang-Ting (Tim) Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng). I was advised by Prof. [Rui Chang](https://person.zju.edu.cn/changrui) from Zhejiang University when I was an undergraduate student. My core competitiveness lies in my full-stack development capabilities in intelligent systems scenarios such as robotics and autonomous driving, encompassing hardware architecture (both NPU and CPU), AI compilation, robotics operating systems, and hardware-algorithm co-optimization.
 
-In the future, I will continue to conduct research into systems and architectures for autonomous driving and robotics.
+I will continuously conduct research and work on systems and computing architectures for physical AI, including intelligent vehicles and robots.
 
-[Github](https://github.com/Man0xbfc00380) / [Gitee](https://gitee.com/lhy_giytee) / [Researchgate](https://www.researchgate.net/profile/Hongyi-Li-30)
-
-## Education
-
-- 2021.9 ~ now, Ph.D candidate, Center for Brain-inspired Computing Research, Tsinghua University
-- 2025.11 ~ 2026.4, Visiting Student, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology
-- 2017.9 ~ 2021.7, B.Eng, Chu-Kochen Honor College, Computer Science and Technology, Zhejiang University
-- 2017.9 ~ 2021.7, B.S, Chu-Kochen Honor College, Biological Science, Zhejiang University
+[Github](https://github.com/Man0xbfc00380) / [Gitee](https://gitee.com/lhy_giytee) / [Researchgate](https://www.researchgate.net/profile/Hongyi-Li-30) / [ThesisInfo](https://mp.weixin.qq.com/s/ThxuZy-HPXmXuvlID_t0eA)
 
 ## Experience
 
-- 2026.7 ~ now, Intern (Shanghai), NIO, Digital Architecture - Computing Platform
+- 2026.10 ~ now, Expert (Shanghai), NIO (Super Sparks), Digital Architecture / Digital System
+- 2026.7 ~ 2026.10, Intern (Shanghai), NIO, Digital Architecture / Digital System
 - 2025.11 ~ 2026.4, Intern (Hong Kong), ACCESS, AI Chip Design
+
+## Education
+
+- 2021.9 ~ 2026.10, Ph.D., Center for Brain-inspired Computing Research, Tsinghua University
+- 2025.11 ~ 2026.4, Visiting Student, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology
+- 2017.9 ~ 2021.7, B.Eng, Chu-Kochen Honor College, Computer Science and Technology, Zhejiang University
+- 2017.9 ~ 2021.7, B.S, Chu-Kochen Honor College, Biological Science, Zhejiang University
 
 ## Publications
 
@@ -86,13 +87,13 @@ Hint: \# marks the co-first author.
 
 ## Services
 
-Reviewer: IEEE ISCAS, Neural Networks, The Journal of Supercomputing.
+Reviewer: IEEE TCAD, IEEE TNNLS, IEEE ISCAS, Neural Networks, The Journal of Supercomputing, etc.
 
 ## Grant
 
 **[2025.1~2026.12]** A brain-inspired asynchronous scheduling ... intelligence [National Natural Science Foundation of China Youth Basic Research Project for PhD Students]
 
-## Selected Award
+## Selected Awards
 
 **[2024]** Best Poster Award at World Life Science Conference
 
