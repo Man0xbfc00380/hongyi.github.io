@@ -25,10 +25,9 @@ author:
   name             : "Hongyi Li"
   pronouns         : # example: "she/her"  
   bio              : "while(True){learning}"
-  location         : "Beijing"
-  employer         : "Tsinghua University"
+  location         : "Shanghai"
   uri              : # URL
-  email            : "hy-li21@mails.tsinghua.edu.cn" 
+  email            : "zjuhongyili@gmail.com" 
 
   # Academic websites
   orcid            : "https://orcid.org/0000-0002-7495-9930"
