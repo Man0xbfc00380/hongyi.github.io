@@ -13,7 +13,7 @@ I was advised by Prof. [Rong Zhao](https://faculty.dpi.tsinghua.edu.cn/zhaorong/
 
 I will continuously conduct research and work on systems and computing architectures for physical AI, including intelligent vehicles and robots.
 
-[Github](https://github.com/Man0xbfc00380) / [Gitee](https://gitee.com/lhy_giytee) / [Researchgate](https://www.researchgate.net/profile/Hongyi-Li-30) / [ThesisInfo](https://mp.weixin.qq.com/s/ThxuZy-HPXmXuvlID_t0eA)
+[Github](https://github.com/Man0xbfc00380) / [Gitee](https://gitee.com/lhy_giytee) / [Researchgate](https://www.researchgate.net/profile/Hongyi-Li-30) / [ThesisInfo](https://mp.weixin.qq.com/s/ThxuZy-HPXmXuvlID_t0eA) / [Email](zjuhongyili@gmail.com)
 
 ## Experience
 
@@ -87,7 +87,7 @@ Hint: \# marks the co-first author.
 
 ## Services
 
-Reviewer: IEEE TCAD, IEEE TNNLS, IEEE ISCAS, Neural Networks, The Journal of Supercomputing, etc.
+Reviewer: IEEE TCAD, IEEE TNNLS, ICRA, IEEE ISCAS, Neural Networks, The Journal of Supercomputing, etc.
 
 ## Grant
 
